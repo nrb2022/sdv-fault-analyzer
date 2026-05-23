@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": "2024-01-15 08:00:05",
+    "ecu_id": "Gateway",
+    "severity": "WARNING",
+    "system": "CAN Bus",
+    "message": "CAN bus load 71.2% \u2014 high utilisation"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:05",
+    "ecu_id": "Gateway",
+    "severity": "HIGH",
+    "system": "Network",
+    "message": "DTC U0073: Control Module Communication Bus Off \u2014 Check CAN-H/CAN-L lines for short circuit or termination"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:06",
+    "ecu_id": "ZCU_Front",
+    "severity": "WARNING",
+    "system": "Coolant",
+    "message": "Coolant temp 93.0\u00b0C \u2014 approaching overheat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:06",
+    "ecu_id": "ZCU_Front",
+    "severity": "WARNING",
+    "system": "CAN Bus",
+    "message": "CAN bus load 74.8% \u2014 high utilisation"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:06",
+    "ecu_id": "ZCU_Front",
+    "severity": "CRITICAL",
+    "system": "Powertrain",
+    "message": "DTC P0217: Engine Coolant Over Temperature \u2014 Stop vehicle immediately. Check coolant level, thermostat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:07",
+    "ecu_id": "ADAS_ECU",
+    "severity": "WARNING",
+    "system": "Coolant",
+    "message": "Coolant temp 97.5\u00b0C \u2014 approaching overheat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:07",
+    "ecu_id": "ADAS_ECU",
+    "severity": "WARNING",
+    "system": "CAN Bus",
+    "message": "CAN bus load 78.3% \u2014 high utilisation"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:07",
+    "ecu_id": "ADAS_ECU",
+    "severity": "CRITICAL",
+    "system": "Powertrain",
+    "message": "DTC P0217: Engine Coolant Over Temperature \u2014 Stop vehicle immediately. Check coolant level, thermostat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:07",
+    "ecu_id": "ADAS_ECU",
+    "severity": "HIGH",
+    "system": "Chassis",
+    "message": "DTC C0035: Left Front Wheel Speed Sensor Circuit \u2014 Check wheel speed sensor, wiring harness, ABS module"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:08",
+    "ecu_id": "Gateway",
+    "severity": "CRITICAL",
+    "system": "Coolant",
+    "message": "Coolant temp 105.2\u00b0C \u2014 CRITICAL overheat threshold breached"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:08",
+    "ecu_id": "Gateway",
+    "severity": "WARNING",
+    "system": "Voltage",
+    "message": "Battery 10.9V \u2014 below normal operating range"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:08",
+    "ecu_id": "Gateway",
+    "severity": "CRITICAL",
+    "system": "CAN Bus",
+    "message": "CAN bus load 88.1% \u2014 overload, message loss likely"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:08",
+    "ecu_id": "Gateway",
+    "severity": "CRITICAL",
+    "system": "Powertrain",
+    "message": "DTC P0217: Engine Coolant Over Temperature \u2014 Stop vehicle immediately. Check coolant level, thermostat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:08",
+    "ecu_id": "Gateway",
+    "severity": "CRITICAL",
+    "system": "Network",
+    "message": "DTC U0100: Lost Communication with ECM/PCM \u2014 Check CAN bus wiring, ECU power supply, ground connections"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:09",
+    "ecu_id": "ZCU_Front",
+    "severity": "CRITICAL",
+    "system": "Coolant",
+    "message": "Coolant temp 110.8\u00b0C \u2014 CRITICAL overheat threshold breached"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:09",
+    "ecu_id": "ZCU_Front",
+    "severity": "CRITICAL",
+    "system": "Voltage",
+    "message": "Battery 10.2V \u2014 critical low voltage, ECU brownout risk"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:09",
+    "ecu_id": "ZCU_Front",
+    "severity": "CRITICAL",
+    "system": "CAN Bus",
+    "message": "CAN bus load 91.5% \u2014 overload, message loss likely"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:09",
+    "ecu_id": "ZCU_Front",
+    "severity": "CRITICAL",
+    "system": "Powertrain",
+    "message": "DTC P0217: Engine Coolant Over Temperature \u2014 Stop vehicle immediately. Check coolant level, thermostat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:09",
+    "ecu_id": "ZCU_Front",
+    "severity": "HIGH",
+    "system": "Powertrain",
+    "message": "DTC P0562: System Voltage Low \u2014 Check battery, alternator output, charging circuit"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:10",
+    "ecu_id": "Body_Ctrl",
+    "severity": "CRITICAL",
+    "system": "Coolant",
+    "message": "Coolant temp 108.3\u00b0C \u2014 CRITICAL overheat threshold breached"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:10",
+    "ecu_id": "Body_Ctrl",
+    "severity": "CRITICAL",
+    "system": "Voltage",
+    "message": "Battery 9.8V \u2014 critical low voltage, ECU brownout risk"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:10",
+    "ecu_id": "Body_Ctrl",
+    "severity": "CRITICAL",
+    "system": "Powertrain",
+    "message": "DTC P0217: Engine Coolant Over Temperature \u2014 Stop vehicle immediately. Check coolant level, thermostat"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:10",
+    "ecu_id": "Body_Ctrl",
+    "severity": "HIGH",
+    "system": "Powertrain",
+    "message": "DTC P0562: System Voltage Low \u2014 Check battery, alternator output, charging circuit"
+  },
+  {
+    "timestamp": "2024-01-15 08:00:10",
+    "ecu_id": "Body_Ctrl",
+    "severity": "CRITICAL",
+    "system": "Body",
+    "message": "DTC B0001: Driver Frontal Stage 1 Deployment \u2014 Airbag system fault \u2014 do not drive. Dealer inspection required"
+  }
+]
